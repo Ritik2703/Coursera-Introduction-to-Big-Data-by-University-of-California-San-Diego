@@ -1,1 +1,32 @@
-a to z.
+Big Data Facts
+
+6 V's--
+Volume= Size (more vol less price more market)
+variety=  Complexity - Scalability
+Velocity = Real time action speed
+Veracity = Quality
+Valence = Connectedness
+Value = Heart of 5 V's
+
+Role of Data Science in Big Data
+Big Data Strategy
+
+5 P's of DS ( people, process, platorm, programmability, purpose)
+
+Asking Right Questions
+
+Steps in Ds ( ACQUIRE PREPARE ANALYZE REPORT ACT )
+Steps in the Data Science Process
+1. AccessingAndRetrievingData
+2a. Exploring Data
+2b. Preprocessing
+3. DataAnalysis
+4. Reportinginsights
+5. TurningInsight
+
+Getting Started-Why Worry About Foundations?
+What is a Distributed File System?
+Scalable Computing Over the Internet
+Programming Models for Big Data
+
+Hadoop Basic (Installation Simple project)
